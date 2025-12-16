@@ -1,0 +1,8 @@
+train: ../images/train
+val: ../images/val
+
+# jumlah kelas
+nc: 4
+
+# nama kelas
+names: ['motor', 'mobil', 'bus', 'truk']
